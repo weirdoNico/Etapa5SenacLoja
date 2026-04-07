@@ -6,7 +6,8 @@ Em desenvolvimento.
 
 # Tecnologias que serão aplicadas
 - Java
-- Mysql
+- Banco de Dados (Mysql)
+- JPA (Java Persistence API)
 
 # Time de desenvolvedores
 - Nicholas Dela Pace Cabrera (Laura Dela Pace Cabrera)
